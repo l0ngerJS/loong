@@ -43,6 +43,6 @@ function getCompiler() {
   });
 }
 
-exports.name = name;
+exports.name = 'loong';
 exports.banner = banner;
 exports.getCompiler = getCompiler;
