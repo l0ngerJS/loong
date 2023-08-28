@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "search.exclude": {
+    "**/node_modules": true,
+  },
+  "vetur.format.defaultFormatter.js": "prettier",
+}
