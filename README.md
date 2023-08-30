@@ -36,23 +36,3 @@ loong.truncate('123456', 5);
   loong.truncate('123456', 5);
 </script>
 ```
-
-### 贡献者指南
-
-首次运行需要先安装依赖
-
-```bash
-$ npm install
-```
-
-一键打包生成生产代码
-
-```bash
-$ npm run build
-```
-
-运行单元测试:
-
-```bash
-$ npm test
-```
