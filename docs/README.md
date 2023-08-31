@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /logo.jpg
+#heroImage: /logo.jpg
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /zh/guide/
 features:
   - title: 简单易用
     details: loong-js是一个简单易用的通用JavaScript工具库，支持node、webpack等多种环境使用。
