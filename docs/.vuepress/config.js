@@ -1,6 +1,7 @@
 module.exports = {
   title: 'loong-js',
   description: '一个通用前端工具库',
+  base: '/loong/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
@@ -12,6 +13,7 @@ module.exports = {
     nav: [
       { text: '指南', link: '/zh/guide/' },
       { text: '使用文档', link: '/zh/doc/array/range' },
+      { text: 'Github', link: 'https://github.com/l0ngerJS/loong' },
       { text: 'Gitee', link: 'https://gitee.com/ChenL0ng/loong' },
     ],
     sidebar: {
