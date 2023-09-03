@@ -36,3 +36,5 @@ loong.truncate('123456', 5);
   loong.truncate('123456', 5);
 </script>
 ```
+
+[在线文档](https://l0ngerjs.github.io/loong/)
