@@ -38,7 +38,10 @@ module.exports = {
           title: 'object',
           collapsable: true,
           sidebarDepth: 0,
-          children: [['object/pick', 'pick']],
+          children: [
+            ['object/pick', 'pick'],
+            ['object/type', 'type'],
+          ],
         },
         {
           title: 'string',
@@ -47,6 +50,7 @@ module.exports = {
           children: [
             ['string/getParam', 'getParam'],
             ['string/truncate', 'truncate'],
+            ['string/validateIP', 'validateIP'],
           ],
         },
       ],
