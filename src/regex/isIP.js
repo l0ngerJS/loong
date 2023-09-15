@@ -1,6 +1,6 @@
 import { type } from '../object/type';
 
-export function validateIP(str) {
+export function isIP(str) {
   if (type(str) !== 'string') {
     return false;
   }

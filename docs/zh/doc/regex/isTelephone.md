@@ -1,6 +1,6 @@
-# validateIP
+# isTelephone
 
-校验 IP 规则(IPv4)
+校验 固话(中国) xxxx-xxxxxxxx 规则
 
 ## 参数
 
@@ -13,6 +13,5 @@
 ## 示例
 
 ```js
-validateIP(''); // false
-validateIP('127.0.0.1'); // true
+isTelephone('0311-85858585'); // true
 ```

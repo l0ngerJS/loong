@@ -50,7 +50,22 @@ module.exports = {
           children: [
             ['string/getParam', 'getParam'],
             ['string/truncate', 'truncate'],
-            ['string/validateIP', 'validateIP'],
+          ],
+        },
+        {
+          title: 'regex',
+          collapsable: true,
+          sidebarDepth: 0,
+          children: [
+            ['regex/isBankCard', 'isBankCard'],
+            ['regex/isEmail', 'isEmail'],
+            ['regex/isHanzi', 'isHanzi'],
+            ['regex/isIDCard', 'isIDCard'],
+            ['regex/isIpMask', 'isIpMask'],
+            ['regex/isMobile', 'isMobile'],
+            ['regex/isPlateNum', 'isPlateNum'],
+            ['regex/isPostcode', 'isPostcode'],
+            ['regex/isTelephone', 'isTelephone'],
           ],
         },
       ],
