@@ -61,6 +61,7 @@ module.exports = {
             ['regex/isEmail', 'isEmail'],
             ['regex/isHanzi', 'isHanzi'],
             ['regex/isIDCard', 'isIDCard'],
+            ['regex/isIP', 'isIP'],
             ['regex/isIpMask', 'isIpMask'],
             ['regex/isMobile', 'isMobile'],
             ['regex/isPlateNum', 'isPlateNum'],
