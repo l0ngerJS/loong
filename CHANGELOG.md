@@ -26,3 +26,9 @@
 - 新增校验 车牌号(中国) 规则 isPlateNum 函数
 - 新增校验 邮政编码(中国) 规则 isPostcode 函数
 - 新增校验 固话(中国) 规则 isTelephone 函数
+
+## 0.4.0
+
+- 新增数组转树形结构 arrayToTree 函数
+- 新增树形结构转数组 treeToArray 函数
+- 新增获取树形结构某项节点数据 pickTreeItem 函数
