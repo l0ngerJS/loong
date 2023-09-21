@@ -4,9 +4,9 @@
 
 ## :triangular_flag_on_post:计划
 
-- array2Tree 函数
-- tree2Array 函数
-- pickTree 函数
+- getTreeLeaf 函数
+- getParentNode 函数
+- getCurrentNode 函数
 
 ## v0.1.0
 
@@ -33,3 +33,9 @@
 - :white_check_mark: 新增校验 车牌号(中国) 规则 isPlateNum 函数
 - :white_check_mark: 新增校验 邮政编码(中国) 规则 isPostcode 函数
 - :white_check_mark: 新增校验 固话(中国) 规则 isTelephone 函数
+
+## v0.4.0
+
+- :white_check_mark: 新增数组转树形结构 arrayToTree 函数
+- :white_check_mark: 新增树形结构转数组 treeToArray 函数
+- :white_check_mark: 新增获取树形结构某项节点数据 pickTreeItem 函数

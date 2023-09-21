@@ -23,7 +23,12 @@ module.exports = {
           title: 'array',
           collapsable: true,
           sidebarDepth: 0,
-          children: [['array/range', 'range']],
+          children: [
+            ['array/range', 'range'],
+            ['array/arrayToTree', 'arrayToTree'],
+            ['array/pickTreeItem', 'pickTreeItem'],
+            ['array/treeToArray', 'treeToArray'],
+          ],
         },
         {
           title: 'function',
