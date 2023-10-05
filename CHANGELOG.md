@@ -32,3 +32,13 @@
 - 新增数组转树形结构 arrayToTree 函数
 - 新增树形结构转数组 treeToArray 函数
 - 新增获取树形结构某项节点数据 pickTreeItem 函数
+
+## 0.5.0
+
+- 新增树形获取当前节点及以下的所有节点 id getChildrenId 函数
+- 新增树形查找当前节点 getCurrentNode 函数
+- 新增树形查找当前节点的父节点 getParentNode 函数
+- 新增树形查找所有叶子节点 getTreeLeaf 函数
+- 新增清理数组数据 cleanArray 函数
+- 新增对象转 url 参数字符串 obj2Param 函数
+- 新增 url 参数字符串转对象 param2Obj 函数

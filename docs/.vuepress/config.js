@@ -28,6 +28,11 @@ module.exports = {
             ['array/arrayToTree', 'arrayToTree'],
             ['array/pickTreeItem', 'pickTreeItem'],
             ['array/treeToArray', 'treeToArray'],
+            ['array/getChildrenId', 'getChildrenId'],
+            ['array/getCurrentNode', 'getCurrentNode'],
+            ['array/getParentNode', 'getParentNode'],
+            ['array/getTreeLeaf', 'getTreeLeaf'],
+            ['array/cleanArray', 'cleanArray'],
           ],
         },
         {
@@ -55,6 +60,8 @@ module.exports = {
           children: [
             ['string/getParam', 'getParam'],
             ['string/truncate', 'truncate'],
+            ['string/obj2Param', 'obj2Param'],
+            ['string/param2Obj', 'param2Obj'],
           ],
         },
         {

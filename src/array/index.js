@@ -2,3 +2,8 @@ export * from './range';
 export * from './arrayToTree';
 export * from './treeToArray';
 export * from './pickTreeItem';
+export * from './getChildrenId';
+export * from './getCurrentNode';
+export * from './getParentNode';
+export * from './getTreeLeaf';
+export * from './cleanArray';
