@@ -4,9 +4,10 @@
 
 ## :triangular_flag_on_post:计划
 
-- getTreeLeaf 函数
-- getParentNode 函数
-- getCurrentNode 函数
+- getDateBeforeDays 函数
+- uniqueBy 函数
+- uniqueArr 函数
+- formatBytes 函数
 
 ## v0.1.0
 
