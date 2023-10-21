@@ -4,11 +4,6 @@
 
 ## :triangular_flag_on_post:计划
 
-- getDateBeforeDays 函数
-- uniqueBy 函数
-- uniqueArr 函数
-- formatBytes 函数
-
 ## v0.1.0
 
 - :white_check_mark: 完成生成范围数组 range 函数
